@@ -1,0 +1,30 @@
+#p1{
+    text-align: center;
+  
+}
+#p2{
+    text-align: center;
+
+}
+#p3{
+    text-align: center;
+    
+}
+#p4{
+    text-align: center;
+   
+}
+#p5{
+    text-align: center;
+   
+}
+#p6{
+    text-align: center;
+    
+}
+.w{
+    text-align:right;
+    display: flex;
+    justify-content: center;
+    
+}
